@@ -3,7 +3,7 @@
 
 _Jeu de la vie en python, réalisé par Shímáo, Mirvit68 & Witrold._
 
-![Wallpaper](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/549e9b77-4c90-4c7f-8d0e-772a4ba70576/dc8by2t-bb10be40-0e4e-4114-a3c2-92ac607e8bb6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU0OWU5Yjc3LTRjOTAtNGM3Zi04ZDBlLTc3MmE0YmE3MDU3NlwvZGM4YnkydC1iYjEwYmU0MC0wZTRlLTQxMTQtYTNjMi05MmFjNjA3ZThiYjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yo4GbRotPL9S5ii0THKwkPArlMkibSW96zCJejpeirc)
+![Wallpaper](https://i.ytimg.com/vi/2oa0U53B278/mqdefault.jpg)
 
 ## Installation
 
