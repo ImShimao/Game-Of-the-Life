@@ -17,7 +17,7 @@ Après avoir installé [Python3](https://www.python.org/) (version 3.7 ou supér
 Si vous installez Python à l'aide de l'installateur officiel, cochez la case `Add Python 3.x to PATH` pour activer la commande `pyxel`. Documentation de [Pyxel](https://github.com/kitao/pyxel#windows).
 
 
-## Usage/Examples
+## Usage/Exemples
 Nous définissons ensuite les dimensions de l'écran, la taille des cellules et la taille de la grille :
 ```python
 largeur = 800
