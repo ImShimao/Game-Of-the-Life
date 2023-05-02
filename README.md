@@ -3,7 +3,7 @@
 
 _Jeu de la vie en python, réalisé par Shímáo, Mirvit68 & Witrold._
 
-![Wallpaper](https://i.ytimg.com/vi/2oa0U53B278/mqdefault.jpg)
+![Wallpaper](https://repository-images.githubusercontent.com/354123897/d4480700-9612-11eb-99b4-4bea6745f663)
 
 ## Installation
 
