@@ -2,7 +2,7 @@ import tkinter as tk
 import gameoflife
 import pyxel
 
-class GameOfLifeGUI:
+class GameOfLife:
     def __init__(self):
         self.root = tk.Tk()
         self.root.geometry('1920x1080')
@@ -24,4 +24,4 @@ class GameOfLifeGUI:
         pyxel.run(game.update, game.draw)
 
 if __name__ == '__main__':
-    GameOfLifeGUI()
+    GameOfLife()
